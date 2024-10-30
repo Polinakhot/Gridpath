@@ -1,4 +1,5 @@
-public class Location {
+public class Location 
+{
     private int theRow;
     private int theCol;
 
